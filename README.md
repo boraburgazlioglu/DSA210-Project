@@ -1,6 +1,6 @@
 # DSA210-Project
 Sabanci University - DSA210 - Fall 2026 Term Project
-
+---
 ##Introduction
 ###Do people who live in coastal towns live a happier life?
 With this project, my aim is to gather information about the average well-being of people living in different cities of Turkey and correlate this information with the cities they live in and spesifically whether they have easy access to a sea. I plan to enrich this analysis by also considering socio-economic factors like average income and unemployment rate, and environmental factors like air quality.
