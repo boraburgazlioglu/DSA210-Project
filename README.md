@@ -12,7 +12,7 @@ People living in coastal towns often argue they couldn't ever live far from the 
 
 Data Sources
 ---
--Reddit posts from location-related subreddits
--Tweets with place tags 
--City-level socio-economic data from TUIK
--City-level Air Quality data from openAQ
+1. Reddit posts from location-related subreddits
+2. Tweets with place tags 
+3. City-level socio-economic data from TUIK
+4. City-level Air Quality data from openAQ
