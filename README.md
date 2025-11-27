@@ -14,11 +14,19 @@ With this project, my aim is to gather information about the average well-being 
 3. Does proximity to the sea correlate meaningfully with well-being when controlling the factors described above?
 
 ## Data Sources and Collection
-All data will be collected from official TUIK Geographical Statistics Portal which offer not datasets, but helpful data on the well-being indicators from 2019 to 2024 via an interactive map. To perform analysis methods, I will be manually extracting the data from the interactive map and organizing the data in a spreadsheet format with every province of Turkey as the rows and statistical values and the coastal or inland status (1 for coastal and 0 for inland) as columns, thus creating one dataset that factors in several different variables for every province.
+Most of the data will be collected from official TÜİK Geographical Statistics Portal which offer not datasets, but helpful data on the well-being indicators from 2019 to 2024 via an interactive map. To perform analysis methods, I will be manually extracting the data from the interactive map and organizing the data in a spreadsheet format with every province of Turkey as the rows and statistical values and the coastal or inland status (1 for coastal and 0 for inland) as columns, thus creating one dataset that factors in several different variables for every province.
+
+TÜİK Geographical Statistics Portal: https://cip.tuik.gov.tr
+
+Additional data, specifically province based life satisfaction scores are taken from the 2013 research which is the latest province based life satisfaction survey by TÜİK.
+
+TÜİK (2013). İllere ve Cinsiyete Göre Mutluluk Düzeyi, 2013.
+
+Download link: https://data.tuik.gov.tr/Bulten/DownloadIstatistikselTablo?p=tZMeEAqr3WdtNNIX4CPjp7qJJyd0bwmHgNmFgmq9den4p%2FVHJEuT89z80N45x0Gm
+
+Source page: https://data.tuik.gov.tr/Bulten/Index?p=Il-Duzeyinde-Yasam-Memnuniyeti-2013-18507
 
 I decided the condition for a province being coastal or not, is if it's border touches the sea. I believe this will be a good projection of reality according to the research questions, since municipalities have their own public transport webs within the provinces, therefore people living in the non-coastal side also can reach the sea. Thus limiting the size of the project to province-level, not district-level.
-
-The Portal: https://cip.tuik.gov.tr
 
 ## Methods
 
