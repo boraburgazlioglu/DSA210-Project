@@ -25,6 +25,8 @@ The Portal: https://cip.tuik.gov.tr
 1. #### Exploratory Data Analysis
 - I will be conducting EDA in order to compare coastal and inland provinces according to the controlled variables and identify the correlation between the indicators themselves. Exploring the dataset to have a better understanding of the factors that influence well being.
 
+2. #### Hypothesis Testing
+- Conducting hypothesis tests on the data will help me determine if there is a significant, meaningful correlation between the coastal status and the indicator values themselves. Bringing me a step closer to answering my research questions and define the relation between well-being and coastal living overall.
 
 
 ---
