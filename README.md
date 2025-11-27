@@ -28,7 +28,7 @@ Source page: https://data.tuik.gov.tr/Bulten/Index?p=Il-Duzeyinde-Yasam-Memnuniy
 
 I decided the condition for a province being coastal or not, is if it's border touches the sea. I believe this will be a good projection of reality according to the research questions, since municipalities have their own public transport webs within the provinces, therefore people living in the non-coastal side also can reach the sea. Thus limiting the size of the project to province-level, not district-level.
 
-Since the research questions do not involve any time specification I will be using research statistics from several years. This will not be a problem as long as the data is from the same year for every province.
+Since the research questions do not involve any time specification, I will be using research statistics from several years. This will not be a problem as long as the data is from the same year for every province.
 
 ## Methods
 
