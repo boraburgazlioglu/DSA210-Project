@@ -18,11 +18,9 @@ Most of the data will be collected from official TÜİK Geographical Statistics 
 
 TÜİK Geographical Statistics Portal: https://cip.tuik.gov.tr
 
-Additional data, specifically province based life satisfaction scores are taken from the 2013 research which is the latest province based life satisfaction survey by TÜİK.
+Additional data, specifically province based healthcare, education and life satisfaction scores are taken from the 2013 research which is the latest province based life satisfaction survey by TÜİK.
 
-TÜİK (2013). İllere ve Cinsiyete Göre Mutluluk Düzeyi, 2013.
-
-Download link: https://data.tuik.gov.tr/Bulten/DownloadIstatistikselTablo?p=tZMeEAqr3WdtNNIX4CPjp7qJJyd0bwmHgNmFgmq9den4p%2FVHJEuT89z80N45x0Gm
+TÜİK (2013). İl Düzeyinde Yaşam Memnuniyeti, 2013
 
 Source page: https://data.tuik.gov.tr/Bulten/Index?p=Il-Duzeyinde-Yasam-Memnuniyeti-2013-18507
 
