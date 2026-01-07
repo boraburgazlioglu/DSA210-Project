@@ -36,10 +36,15 @@ Since the research questions do not involve any time specification, I will be us
 2. #### Hypothesis Testing
 - Conducting hypothesis tests on the data will help me determine if there is a significant, meaningful correlation between the coastal status and the indicator values themselves. Bringing me a step closer to answering my research questions and define the relation between well-being and coastal living overall.
 
-
+3. #### Machine Learning
+- Since the dataset is not very large, it is expected that conducting machine learning will not provide much of a meaningful outcome. But I will at least attempt to utilize machine learning in this project anyways, documenting and presenting the whole process.
+  
+---
+### Project Results
+All exploratory analysis, hypothesis testing and machine learning, along with their results and interpretation, are documented in the Jupyter Notebook files included. The notebooks present the full workflow, important details and findings while discussing and explaining them thoroughly.
 ---
 
-**Author:** Bora Burgazlıoğlu -34297
+**Author:** Bora Burgazlıoğlu - 34297
 
 **Course:** DSA210  
 
