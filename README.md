@@ -39,7 +39,6 @@ Since the research questions do not involve any time specification, I will be us
 3. #### Machine Learning
 - Since the dataset is not very large, it is expected that conducting machine learning will not provide much of a meaningful outcome. But I will at least attempt to utilize machine learning in this project anyways, documenting and presenting the whole process.
   
----
 ### Project Results
 All exploratory analysis, hypothesis testing and machine learning, along with their results and interpretation, are documented in the Jupyter Notebook files included. The notebooks present the full workflow, important details and findings while discussing and explaining them thoroughly.
 ---
