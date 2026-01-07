@@ -41,7 +41,6 @@ Since the research questions do not involve any time specification, I will be us
   
 ---
 ### Project Results
-
 All exploratory analysis, hypothesis testing and machine learning, along with their results and interpretation, are documented in the Jupyter Notebook files included. The notebooks present the full workflow, important details and findings while discussing and explaining them thoroughly.
 ---
 
